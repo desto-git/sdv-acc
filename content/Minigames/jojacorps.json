@@ -1,0 +1,47 @@
+{
+	"Changes": [
+		// Left window observer
+		{
+			"Action": "EditImage",
+			"Target": "Minigames/jojacorps",
+			"FromFile": "assets/Minigames/jojacorps.png",
+         "FromArea": { "X": 29, "Y": 53, "Width": 60, "Height": 72 },
+         "ToArea": { "X": 29, "Y": 53, "Width": 60, "Height": 72 }
+		},
+		// Right window observer
+		{
+			"Action": "EditImage",
+			"Target": "Minigames/jojacorps",
+			"FromFile": "assets/Minigames/jojacorps.png",
+         "FromArea": { "X": 359, "Y": 52, "Width": 60, "Height": 72 },
+         "ToArea": { "X": 359, "Y": 52, "Width": 60, "Height": 72 }
+		},
+
+		// Top view on cubicles
+		{
+			"Action": "EditImage",
+			"Target": "Minigames/jojacorps",
+			"FromFile": "assets/Minigames/jojacorps.png",
+         "FromArea": { "X": 0, "Y": 188, "Width": 427, "Height": 52 },
+         "ToArea": { "X": 0, "Y": 188, "Width": 427, "Height": 52 }
+		},
+
+		// Animations
+		{
+			"Action": "EditImage",
+			"Target": "Minigames/jojacorps",
+			"FromFile": "assets/Minigames/jojacorps.png",
+         "FromArea": { "X": 264, "Y": 581, "Width": 222, "Height": 17 },
+         "ToArea": { "X": 264, "Y": 581, "Width": 222, "Height": 17 }
+		},
+
+		// Side view
+		{
+			"Action": "EditImage",
+			"Target": "Minigames/jojacorps",
+			"FromFile": "assets/Minigames/jojacorps.png",
+         "FromArea": { "X": 109, "Y": 683, "Width": 1090, "Height": 58 },
+         "ToArea": { "X": 109, "Y": 683, "Width": 1090, "Height": 58 }
+		}
+	]
+}

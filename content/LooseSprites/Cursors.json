@@ -1,0 +1,283 @@
+{
+	"Changes": [
+		// TV channels
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors.png",
+         "FromArea": { "X": 413, "Y": 305, "Width": 253, "Height": 28 },
+         "ToArea": { "X": 413, "Y": 305, "Width": 253, "Height": 28 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors.png",
+         "FromArea": { "X": 517, "Y": 361, "Width": 169, "Height": 28 },
+         "ToArea": { "X": 517, "Y": 361, "Width": 169, "Height": 28 }
+		},
+
+		// Portrait-y icons? (not sure where they are used)
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors.png",
+         "FromArea": { "X": 2, "Y": 608, "Width": 78, "Height": 16 },
+			"ToArea": { "X": 2, "Y": 608, "Width": 78, "Height": 16 }
+		},
+
+		// Skill icons
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors.png",
+         "FromArea": { "X": 80, "Y": 640, "Width": 16, "Height": 16 },
+         "ToArea": { "X": 80, "Y": 640, "Width": 16, "Height": 16 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors.png",
+         "FromArea": { "X": 80, "Y": 688, "Width": 16, "Height": 16 },
+         "ToArea": { "X": 80, "Y": 688, "Width": 16, "Height": 16 }
+		},
+
+		// JoJa personal
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors.png",
+         "FromArea": { "X": 105, "Y": 1318, "Width": 13, "Height": 31 },
+         "ToArea": { "X": 105, "Y": 1318, "Width": 13, "Height": 31 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors.png",
+         "FromArea": { "X": 0, "Y": 1363, "Width": 114, "Height": 58 },
+         "ToArea": { "X": 0, "Y": 1363, "Width": 114, "Height": 58 }
+		},
+
+		// Forest trader
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors.png",
+         "FromArea": { "X": 57, "Y": 1430, "Width": 40, "Height": 12 },
+         "ToArea": { "X": 57, "Y": 1430, "Width": 40, "Height": 12 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors.png",
+         "FromArea": { "X": 89, "Y": 1445, "Width": 17, "Height": 3 },
+         "ToArea": { "X": 89, "Y": 1445, "Width": 17, "Height": 3 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors.png",
+         "FromArea": { "X": 194, "Y": 1413, "Width": 15, "Height": 17 },
+         "ToArea": { "X": 194, "Y": 1413, "Width": 15, "Height": 17 }
+		},
+
+		// Pam bus driver + construction workers
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors.png",
+         "FromArea": { "X": 288, "Y": 1247, "Width": 136, "Height": 202 },
+         "ToArea": { "X": 288, "Y": 1247, "Width": 136, "Height": 202 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors.png",
+         "FromArea": { "X": 424, "Y": 1376, "Width": 15, "Height": 61 },
+         "ToArea": { "X": 424, "Y": 1376, "Width": 15, "Height": 61 }
+		},
+
+		// Applying many individual patches increases initial load time
+		// // Pam bus driver
+		// {
+		// 	"Action": "EditImage",
+		// 	"Target": "LooseSprites/Cursors",
+		// 	"FromFile": "assets/LooseSprites/Cursors.png",
+      //    "FromArea": { "X": 384, "Y": 1311, "Width": 14, "Height": 19 },
+      //    "ToArea": { "X": 384, "Y": 1311, "Width": 14, "Height": 19 }
+		// },
+
+		// // Construction workers
+		// {
+		// 	"Action": "EditImage",
+		// 	"Target": "LooseSprites/Cursors",
+		// 	"FromFile": "assets/LooseSprites/Cursors.png",
+      //    "FromArea": { "X": 288, "Y": 1349, "Width": 69, "Height": 83 },
+      //    "ToArea": { "X": 288, "Y": 1349, "Width": 69, "Height": 83 }
+		// },
+		// {
+		// 	"Action": "EditImage",
+		// 	"Target": "LooseSprites/Cursors",
+		// 	"FromFile": "assets/LooseSprites/Cursors.png",
+      //    "FromArea": { "X": 357, "Y": 1349, "Width": 27, "Height": 89 },
+      //    "ToArea": { "X": 357, "Y": 1349, "Width": 27, "Height": 89 }
+		// },
+		// {
+		// 	"Action": "EditImage",
+		// 	"Target": "LooseSprites/Cursors",
+		// 	"FromFile": "assets/LooseSprites/Cursors.png",
+      //    "FromArea": { "X": 384, "Y": 1338, "Width": 40, "Height": 100 },
+      //    "ToArea": { "X": 384, "Y": 1338, "Width": 40, "Height": 100 }
+		// },
+		// {
+		// 	"Action": "EditImage",
+		// 	"Target": "LooseSprites/Cursors",
+		// 	"FromFile": "assets/LooseSprites/Cursors.png",
+      //    "FromArea": { "X": 424, "Y": 1376, "Width": 15, "Height": 61 },
+      //    "ToArea": { "X": 424, "Y": 1376, "Width": 15, "Height": 61 }
+		// },
+
+		// Marnie cheering
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors.png",
+         "FromArea": { "X": 558, "Y": 1425, "Width": 60, "Height": 26 },
+         "ToArea": { "X": 558, "Y": 1425, "Width": 60, "Height": 26 }
+		},
+
+		// Paintings
+		// Equivalents exist in LooseObjects/temporary_sprites_1.png
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors.png",
+         "FromArea": { "X": 0, "Y": 1925, "Width": 50, "Height": 47 },
+         "ToArea": { "X": 0, "Y": 1925, "Width": 50, "Height": 47 }
+		},
+
+		// Witch on broom
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors.png",
+         "FromArea": { "X": 276, "Y": 1885, "Width": 48, "Height": 59 },
+         "ToArea": { "X": 276, "Y": 1885, "Width": 48, "Height": 59 }
+		},
+
+		// Woman holding baby
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors.png",
+         "FromArea": { "X": 416, "Y": 1934, "Width": 116, "Height": 62 },
+         "ToArea": { "X": 416, "Y": 1934, "Width": 116, "Height": 62 }
+		},
+
+		// Sebastian on bike
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors.png",
+         "FromArea": { "X": 405, "Y": 1854, "Width": 48, "Height": 33 },
+         "ToArea": { "X": 405, "Y": 1854, "Width": 48, "Height": 33 }
+		},
+
+		// Shane wasted
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors.png",
+         "FromArea": { "X": 532, "Y": 1863, "Width": 20, "Height": 28 },
+         "ToArea": { "X": 532, "Y": 1863, "Width": 20, "Height": 28 }
+		},
+
+		// Journey of the Prairie King
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors.png",
+         "FromArea": { "X": 128, "Y": 1712, "Width": 160, "Height": 112 },
+         "ToArea": { "X": 128, "Y": 1712, "Width": 160, "Height": 112 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors.png",
+         "FromArea": { "X": 288, "Y": 1969, "Width": 352, "Height": 128 },
+         "ToArea": { "X": 288, "Y": 1969, "Width": 352, "Height": 128 }
+		}
+
+		// Journey of the Prairie King (individual changes)
+		// Applying many individual patches increases initial load time
+		// {
+		// 	"Action": "EditImage",
+		// 	"Target": "LooseSprites/Cursors",
+		// 	"FromFile": "assets/LooseSprites/Cursors.png",
+      //    "FromArea": { "X": 224, "Y": 1712, "Width": 64, "Height": 32 },
+      //    "ToArea": { "X": 224, "Y": 1712, "Width": 64, "Height": 32 }
+		// },
+		// {
+		// 	"Action": "EditImage",
+		// 	"Target": "LooseSprites/Cursors",
+		// 	"FromFile": "assets/LooseSprites/Cursors.png",
+      //    "FromArea": { "X": 224, "Y": 1792, "Width": 64, "Height": 16 },
+      //    "ToArea": { "X": 224, "Y": 1792, "Width": 64, "Height": 16 }
+		// },
+		// {
+		// 	"Action": "EditImage",
+		// 	"Target": "LooseSprites/Cursors",
+		// 	"FromFile": "assets/LooseSprites/Cursors.png",
+      //    "FromArea": { "X": 352, "Y": 1760, "Width": 64, "Height": 16 },
+      //    "ToArea": { "X": 352, "Y": 1760, "Width": 64, "Height": 16 }
+		// },
+		// {
+		// 	"Action": "EditImage",
+		// 	"Target": "LooseSprites/Cursors",
+		// 	"FromFile": "assets/LooseSprites/Cursors.png",
+      //    "FromArea": { "X": 400, "Y": 1776, "Width": 16, "Height": 16 },
+      //    "ToArea": { "X": 400, "Y": 1776, "Width": 16, "Height": 16 }
+		// },
+		// {
+		// 	"Action": "EditImage",
+		// 	"Target": "LooseSprites/Cursors",
+		// 	"FromFile": "assets/LooseSprites/Cursors.png",
+      //    "FromArea": { "X": 400, "Y": 1808, "Width": 16, "Height": 16 },
+      //    "ToArea": { "X": 400, "Y": 1808, "Width": 16, "Height": 16 }
+		// },
+		// {
+		// 	"Action": "EditImage",
+		// 	"Target": "LooseSprites/Cursors",
+		// 	"FromFile": "assets/LooseSprites/Cursors.png",
+      //    "FromArea": { "X": 432, "Y": 1744, "Width": 32, "Height": 16 },
+      //    "ToArea": { "X": 432, "Y": 1744, "Width": 32, "Height": 16 }
+		// },
+		// {
+		// 	"Action": "EditImage",
+		// 	"Target": "LooseSprites/Cursors",
+		// 	"FromFile": "assets/LooseSprites/Cursors.png",
+      //    "FromArea": { "X": 464, "Y": 1728, "Width": 64, "Height": 48 },
+      //    "ToArea": { "X": 464, "Y": 1728, "Width": 64, "Height": 48 }
+		// },
+		// {
+		// 	"Action": "EditImage",
+		// 	"Target": "LooseSprites/Cursors",
+		// 	"FromFile": "assets/LooseSprites/Cursors.png",
+      //    "FromArea": { "X": 528, "Y": 1728, "Width": 16, "Height": 16 },
+      //    "ToArea": { "X": 528, "Y": 1728, "Width": 16, "Height": 16 }
+		// },
+		// {
+		// 	"Action": "EditImage",
+		// 	"Target": "LooseSprites/Cursors",
+		// 	"FromFile": "assets/LooseSprites/Cursors.png",
+      //    "FromArea": { "X": 560, "Y": 1776, "Width": 64, "Height": 16 },
+      //    "ToArea": { "X": 560, "Y": 1776, "Width": 64, "Height": 16 }
+		// },
+		// {
+		// 	"Action": "EditImage",
+		// 	"Target": "LooseSprites/Cursors",
+		// 	"FromFile": "assets/LooseSprites/Cursors.png",
+      //    "FromArea": { "X": 550, "Y": 1803, "Width": 22, "Height": 21 },
+      //    "ToArea": { "X": 550, "Y": 1803, "Width": 22, "Height": 21 }
+		// }
+	]
+}

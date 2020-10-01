@@ -1,14 +1,21 @@
 {
 	"Changes": [
+		// Lewis golden statue
 		{
-			"Action": "Load",
+			"Action": "EditImage",
 			"Target": "TileSheets/Craftables",
-			"FromFile": "assets/TileSheets/Craftables.png"
+			"FromFile": "assets/TileSheets/Craftables.png",
+         "FromArea": { "X": 64, "Y": 640, "Width": 16, "Height": 32 },
+         "ToArea": { "X": 64, "Y": 640, "Width": 16, "Height": 32 }
 		},
+
+		// Photo
 		{
-			"Action": "Load",
+			"Action": "EditImage",
 			"Target": "TileSheets/SecretNotesImages",
-			"FromFile": "assets/TileSheets/SecretNotesImages.png"
+			"FromFile": "assets/TileSheets/SecretNotesImages.png",
+         "FromArea": { "X": 128, "Y": 64, "Width": 64, "Height": 64 },
+         "ToArea": { "X": 128, "Y": 64, "Width": 64, "Height": 64 }
 		}
 	]
 }
