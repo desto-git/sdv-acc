@@ -1,0 +1,14 @@
+{
+
+  "Name": "Gaveliere's Furry Mod",
+   "Author": "Krystedez",
+   "Description": "Art by Gaveliere. Overwrites every NPC sprite, portrait and event sprites, effectively transforming everyone into anthropormorphic animal characters.",
+   "Version": "1.0.0",
+   "UniqueID": "Krystedez.GavelieresFurryMod",
+   "ContentPackFor": 
+   {
+       "UniqueID": "Pathoschild.ContentPatcher"
+   },
+   "UpdateKeys": [ "" ],
+   
+}
