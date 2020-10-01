@@ -1,6 +1,7 @@
 ## 5.22.0
 
 - Feature: Remove redundant multi-language versions (they inherit the changes)
+- Feature: Get rid of the "libpng warning: iCCP: known incorrect sRGB profile"
 - Chore: Split content.json into multiple files
 
 ## pre manifest.json
