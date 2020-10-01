@@ -1,0 +1,14 @@
+{
+	"Changes": [
+		{
+			"Action": "Load",
+			"Target": "TileSheets/Craftables",
+			"FromFile": "assets/TileSheets/Craftables.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "TileSheets/SecretNotesImages",
+			"FromFile": "assets/TileSheets/SecretNotesImages.png"
+		}
+	]
+}

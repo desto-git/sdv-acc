@@ -1,0 +1,154 @@
+{
+	"Changes": [
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/temporary_sprites_1",
+			"FromFile": "assets/LooseSprites/temporary_sprites_1.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/boardGame",
+			"FromFile": "assets/LooseSprites/boardGame.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/cowPhotos",
+			"FromFile": "assets/LooseSprites/cowPhotos.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/cowPhotosWinter",
+			"FromFile": "assets/LooseSprites/cowPhotosWinter.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/Cursors.de-DE",
+			"FromFile": "assets/LooseSprites/Cursors.de-DE.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/Cursors.es-ES",
+			"FromFile": "assets/LooseSprites/Cursors.es-ES.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/Cursors.fr-FR",
+			"FromFile": "assets/LooseSprites/Cursors.fr-FR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/Cursors.hu-HU",
+			"FromFile": "assets/LooseSprites/Cursors.hu-HU.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/Cursors.it-IT",
+			"FromFile": "assets/LooseSprites/Cursors.it-IT.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/Cursors.ja-JP",
+			"FromFile": "assets/LooseSprites/Cursors.ja-JP.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/Cursors.ko-KR",
+			"FromFile": "assets/LooseSprites/Cursors.ko-KR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/Cursors",
+			"FromFile": "assets/LooseSprites/Cursors.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/Cursors.pt-BR",
+			"FromFile": "assets/LooseSprites/Cursors.pt-BR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/Cursors.ru-RU",
+			"FromFile": "assets/LooseSprites/Cursors.ru-RU.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/Cursors.tr-TR",
+			"FromFile": "assets/LooseSprites/Cursors.tr-TR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/Cursors.zh-CN",
+			"FromFile": "assets/LooseSprites/Cursors.zh-CN.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/emojis",
+			"FromFile": "assets/LooseSprites/emojis.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/JunimoNote.de-DE",
+			"FromFile": "assets/LooseSprites/JunimoNote.de-DE.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/JunimoNote.es-ES",
+			"FromFile": "assets/LooseSprites/JunimoNote.es-ES.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/JunimoNote.fr-FR",
+			"FromFile": "assets/LooseSprites/JunimoNote.fr-FR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/JunimoNote.hu-HU",
+			"FromFile": "assets/LooseSprites/JunimoNote.hu-HU.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/JunimoNote.it-IT",
+			"FromFile": "assets/LooseSprites/JunimoNote.it-IT.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/JunimoNote.ja-JP",
+			"FromFile": "assets/LooseSprites/JunimoNote.ja-JP.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/JunimoNote.ko-KR",
+			"FromFile": "assets/LooseSprites/JunimoNote.ko-KR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/JunimoNote",
+			"FromFile": "assets/LooseSprites/JunimoNote.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/JunimoNote.pt-BR",
+			"FromFile": "assets/LooseSprites/JunimoNote.pt-BR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/JunimoNote.ru-RU",
+			"FromFile": "assets/LooseSprites/JunimoNote.ru-RU.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/JunimoNote.tr-TR",
+			"FromFile": "assets/LooseSprites/JunimoNote.tr-TR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/JunimoNote.zh-CN",
+			"FromFile": "assets/LooseSprites/JunimoNote.zh-CN.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "LooseSprites/Movies",
+			"FromFile": "assets/LooseSprites/Movies.png"
+		}
+	]
+}

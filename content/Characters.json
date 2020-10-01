@@ -1,0 +1,249 @@
+{
+	"Changes": [
+		{
+			"Action": "Load",
+			"Target": "Characters/Abigail",
+			"FromFile": "assets/Characters/Abigail.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Alex",
+			"FromFile": "assets/Characters/Alex.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Bouncer",
+			"FromFile": "assets/Characters/Bouncer.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Caroline",
+			"FromFile": "assets/Characters/Caroline.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Clint",
+			"FromFile": "assets/Characters/Clint.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/ClothesTherapyCharacters",
+			"FromFile": "assets/Characters/ClothesTherapyCharacters.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Demetrius",
+			"FromFile": "assets/Characters/Demetrius.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Dwarf",
+			"FromFile": "assets/Characters/Dwarf.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Elliott",
+			"FromFile": "assets/Characters/Elliott.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Emily",
+			"FromFile": "assets/Characters/Emily.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Evelyn",
+			"FromFile": "assets/Characters/Evelyn.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/George",
+			"FromFile": "assets/Characters/George.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Governor",
+			"FromFile": "assets/Characters/Governor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Gunther",
+			"FromFile": "assets/Characters/Gunther.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Gus",
+			"FromFile": "assets/Characters/Gus.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Haley",
+			"FromFile": "assets/Characters/Haley.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Harvey",
+			"FromFile": "assets/Characters/Harvey.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Henchman",
+			"FromFile": "assets/Characters/Henchman.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Jas",
+			"FromFile": "assets/Characters/Jas.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Jodi",
+			"FromFile": "assets/Characters/Jodi.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Kent",
+			"FromFile": "assets/Characters/Kent.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Krobus",
+			"FromFile": "assets/Characters/Krobus.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Krobus_Trenchcoat",
+			"FromFile": "assets/Characters/Krobus_Trenchcoat.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Leah",
+			"FromFile": "assets/Characters/Leah.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/LeahExFemale",
+			"FromFile": "assets/Characters/LeahExFemale.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/LeahExMale",
+			"FromFile": "assets/Characters/LeahExMale.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Lewis",
+			"FromFile": "assets/Characters/Lewis.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Linus",
+			"FromFile": "assets/Characters/Linus.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Marcello",
+			"FromFile": "assets/Characters/Marcello.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Mariner",
+			"FromFile": "assets/Characters/Mariner.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Marlon",
+			"FromFile": "assets/Characters/Marlon.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Marnie",
+			"FromFile": "assets/Characters/Marnie.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Maru",
+			"FromFile": "assets/Characters/Maru.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Maru_Hospital",
+			"FromFile": "assets/Characters/Maru_Hospital.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Morris",
+			"FromFile": "assets/Characters/Morris.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/MrQi",
+			"FromFile": "assets/Characters/MrQi.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Pam",
+			"FromFile": "assets/Characters/Pam.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Penny",
+			"FromFile": "assets/Characters/Penny.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Pierre",
+			"FromFile": "assets/Characters/Pierre.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Robin",
+			"FromFile": "assets/Characters/Robin.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Sam",
+			"FromFile": "assets/Characters/Sam.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Sandy",
+			"FromFile": "assets/Characters/Sandy.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/SeaMonsterKrobus",
+			"FromFile": "assets/Characters/SeaMonsterKrobus.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Sebastian",
+			"FromFile": "assets/Characters/Sebastian.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Shane",
+			"FromFile": "assets/Characters/Shane.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Shane_JojaMart",
+			"FromFile": "assets/Characters/Shane_JojaMart.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Vincent",
+			"FromFile": "assets/Characters/Vincent.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Willy",
+			"FromFile": "assets/Characters/Willy.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Wizard",
+			"FromFile": "assets/Characters/Wizard.png"
+		}
+	]
+}

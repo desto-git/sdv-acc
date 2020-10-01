@@ -1,0 +1,49 @@
+{
+	"Changes": [
+		{
+			"Action": "Load",
+			"Target": "Minigames/Intro",
+			"FromFile": "assets/Minigames/Intro.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Minigames/jojacorps.es-ES",
+			"FromFile": "assets/Minigames/jojacorps.es-ES.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Minigames/jojacorps.fr-FR",
+			"FromFile": "assets/Minigames/jojacorps.fr-FR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Minigames/jojacorps.hu-HU",
+			"FromFile": "assets/Minigames/jojacorps.hu-HU.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Minigames/jojacorps.ja-JP",
+			"FromFile": "assets/Minigames/jojacorps.ja-JP.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Minigames/jojacorps.ko-KR",
+			"FromFile": "assets/Minigames/jojacorps.ko-KR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Minigames/jojacorps",
+			"FromFile": "assets/Minigames/jojacorps.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Minigames/jojacorps.pt-BR",
+			"FromFile": "assets/Minigames/jojacorps.pt-BR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Minigames/jojacorps.zh-CN",
+			"FromFile": "assets/Minigames/jojacorps.zh-CN.png"
+		}
+	]
+}

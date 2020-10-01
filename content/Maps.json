@@ -1,0 +1,234 @@
+{
+	"Changes": [
+		{
+			"Action": "Load",
+			"Target": "Maps/DesertTiles.es-ES",
+			"FromFile": "assets/Maps/DesertTiles.es-ES.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/DesertTiles.fr-FR",
+			"FromFile": "assets/Maps/DesertTiles.fr-FR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/DesertTiles.hu-HU",
+			"FromFile": "assets/Maps/DesertTiles.hu-HU.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/DesertTiles.it-IT",
+			"FromFile": "assets/Maps/DesertTiles.it-IT.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/DesertTiles.ja-JP",
+			"FromFile": "assets/Maps/DesertTiles.ja-JP.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/DesertTiles.ko-KR",
+			"FromFile": "assets/Maps/DesertTiles.ko-KR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/DesertTiles",
+			"FromFile": "assets/Maps/DesertTiles.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/DesertTiles.pt-BR",
+			"FromFile": "assets/Maps/DesertTiles.pt-BR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/DesertTiles.tr-TR",
+			"FromFile": "assets/Maps/DesertTiles.tr-TR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/DesertTiles.zh-CN",
+			"FromFile": "assets/Maps/DesertTiles.zh-CN.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/Festivals.es-ES",
+			"FromFile": "assets/Maps/Festivals.es-ES.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/Festivals.fr-FR",
+			"FromFile": "assets/Maps/Festivals.fr-FR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/Festivals.hu-HU",
+			"FromFile": "assets/Maps/Festivals.hu-HU.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/Festivals.it-IT",
+			"FromFile": "assets/Maps/Festivals.it-IT.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/Festivals.ja-JP",
+			"FromFile": "assets/Maps/Festivals.ja-JP.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/Festivals.ko-KR",
+			"FromFile": "assets/Maps/Festivals.ko-KR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/Festivals",
+			"FromFile": "assets/Maps/Festivals.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/Festivals.pt-BR",
+			"FromFile": "assets/Maps/Festivals.pt-BR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/Festivals.tr-TR",
+			"FromFile": "assets/Maps/Festivals.tr-TR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/Festivals.zh-CN",
+			"FromFile": "assets/Maps/Festivals.zh-CN.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/MovieTheater_TileSheet",
+			"FromFile": "assets/Maps/MovieTheater_TileSheet.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/MovieTheaterJoja_TileSheet",
+			"FromFile": "assets/Maps/MovieTheaterJoja_TileSheet.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/MovieTheaterJoja_TileSheet_international",
+			"FromFile": "assets/Maps/MovieTheaterJoja_TileSheet_international.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/night_market_tilesheet_objects",
+			"FromFile": "assets/Maps/night_market_tilesheet_objects.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/samshowtiles.es-ES",
+			"FromFile": "assets/Maps/samshowtiles.es-ES.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/samshowtiles.fr-FR",
+			"FromFile": "assets/Maps/samshowtiles.fr-FR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/samshowtiles.hu-HU",
+			"FromFile": "assets/Maps/samshowtiles.hu-HU.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/samshowtiles.ja-JP",
+			"FromFile": "assets/Maps/samshowtiles.ja-JP.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/samshowtiles.ko-KR",
+			"FromFile": "assets/Maps/samshowtiles.ko-KR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/samshowtiles",
+			"FromFile": "assets/Maps/samshowtiles.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/samshowtiles.pt-BR",
+			"FromFile": "assets/Maps/samshowtiles.pt-BR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/samshowtiles.zh-CN",
+			"FromFile": "assets/Maps/samshowtiles.zh-CN.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/stadium_tiles",
+			"FromFile": "assets/Maps/stadium_tiles.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/submarine_tilesheet",
+			"FromFile": "assets/Maps/submarine_tilesheet.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/townInterior.de-DE",
+			"FromFile": "assets/Maps/townInterior.de-DE.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/townInterior.es-ES",
+			"FromFile": "assets/Maps/townInterior.es-ES.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/townInterior.fr-FR",
+			"FromFile": "assets/Maps/townInterior.fr-FR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/townInterior.hu-HU",
+			"FromFile": "assets/Maps/townInterior.hu-HU.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/townInterior.it-IT",
+			"FromFile": "assets/Maps/townInterior.it-IT.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/townInterior.ja-JP",
+			"FromFile": "assets/Maps/townInterior.ja-JP.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/townInterior.ko-KR",
+			"FromFile": "assets/Maps/townInterior.ko-KR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/townInterior",
+			"FromFile": "assets/Maps/townInterior.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/townInterior.pt-BR",
+			"FromFile": "assets/Maps/townInterior.pt-BR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/townInterior.ru-RU",
+			"FromFile": "assets/Maps/townInterior.ru-RU.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/townInterior.tr-TR",
+			"FromFile": "assets/Maps/townInterior.tr-TR.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Maps/townInterior.zh-CN",
+			"FromFile": "assets/Maps/townInterior.zh-CN.png"
+		}
+	]
+}
