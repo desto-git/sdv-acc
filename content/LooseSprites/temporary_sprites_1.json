@@ -1,54 +1,80 @@
 {
 	"Changes": [
 		// Night Market show
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/temporary_sprites_1",
+			"FromFile": "assets/LooseSprites/temporary_sprites_1.png",
+         "FromArea": { "X": 0, "Y": 0, "Width": 144, "Height": 242 },
+         "ToArea": { "X": 0, "Y": 0, "Width": 144, "Height": 242 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/temporary_sprites_1",
+			"FromFile": "assets/LooseSprites/temporary_sprites_1.png",
+         "FromArea": { "X": 144, "Y": 0, "Width": 112, "Height": 118 },
+         "ToArea": { "X": 144, "Y": 0, "Width": 112, "Height": 118 }
+		},
+
+
+		// Applying many individual patches increases initial load time
 		// big-ass mermaid
-		{
-			"Action": "EditImage",
-			"Target": "LooseSprites/temporary_sprites_1",
-			"FromFile": "assets/LooseSprites/temporary_sprites_1.png",
-         "FromArea": { "X": 0, "Y": 0, "Width": 113, "Height": 70 },
-         "ToArea": { "X": 0, "Y": 0, "Width": 113, "Height": 70 }
-		},
-		// Singing mermaid
-		{
-			"Action": "EditImage",
-			"Target": "LooseSprites/temporary_sprites_1",
-			"FromFile": "assets/LooseSprites/temporary_sprites_1.png",
-         "FromArea": { "X": 0, "Y": 80, "Width": 251, "Height": 36 },
-         "ToArea": { "X": 0, "Y": 80, "Width": 251, "Height": 36 }
-		},
-		// Sitting mermaid
-		{
-			"Action": "EditImage",
-			"Target": "LooseSprites/temporary_sprites_1",
-			"FromFile": "assets/LooseSprites/temporary_sprites_1.png",
-         "FromArea": { "X": 193, "Y": 0, "Width": 29, "Height": 32 },
-         "ToArea": { "X": 193, "Y": 0, "Width": 29, "Height": 32 }
-		},
-		// Dancing mermaid
-		{
-			"Action": "EditImage",
-			"Target": "LooseSprites/temporary_sprites_1",
-			"FromFile": "assets/LooseSprites/temporary_sprites_1.png",
-         "FromArea": { "X": 68, "Y": 190, "Width": 70, "Height": 51 },
-         "ToArea": { "X": 68, "Y": 190, "Width": 70, "Height": 51 }
-		},
-		// Mermaid fairy
-		{
-			"Action": "EditImage",
-			"Target": "LooseSprites/temporary_sprites_1",
-			"FromFile": "assets/LooseSprites/temporary_sprites_1.png",
-         "FromArea": { "X": 0, "Y": 126, "Width": 76, "Height": 20 },
-         "ToArea": { "X": 0, "Y": 126, "Width": 76, "Height": 20 }
-		},
-		// Mermaid poster
-		{
-			"Action": "EditImage",
-			"Target": "LooseSprites/temporary_sprites_1",
-			"FromFile": "assets/LooseSprites/temporary_sprites_1.png",
-         "FromArea": { "X": 172, "Y": 201, "Width": 28, "Height": 13 },
-         "ToArea": { "X": 172, "Y": 201, "Width": 28, "Height": 13 }
-		},
+		// {
+		// 	"Action": "EditImage",
+		// 	"Target": "LooseSprites/temporary_sprites_1",
+		// 	"FromFile": "assets/LooseSprites/temporary_sprites_1.png",
+      //    "FromArea": { "X": 0, "Y": 0, "Width": 113, "Height": 70 },
+      //    "ToArea": { "X": 0, "Y": 0, "Width": 113, "Height": 70 }
+		// },
+		// // Singing mermaid
+		// {
+		// 	"Action": "EditImage",
+		// 	"Target": "LooseSprites/temporary_sprites_1",
+		// 	"FromFile": "assets/LooseSprites/temporary_sprites_1.png",
+      //    "FromArea": { "X": 0, "Y": 80, "Width": 251, "Height": 36 },
+      //    "ToArea": { "X": 0, "Y": 80, "Width": 251, "Height": 36 }
+		// },
+		// // Sitting mermaid
+		// {
+		// 	"Action": "EditImage",
+		// 	"Target": "LooseSprites/temporary_sprites_1",
+		// 	"FromFile": "assets/LooseSprites/temporary_sprites_1.png",
+      //    "FromArea": { "X": 193, "Y": 0, "Width": 29, "Height": 32 },
+      //    "ToArea": { "X": 193, "Y": 0, "Width": 29, "Height": 32 }
+		// },
+		// // Dancing mermaid
+		// {
+		// 	"Action": "EditImage",
+		// 	"Target": "LooseSprites/temporary_sprites_1",
+		// 	"FromFile": "assets/LooseSprites/temporary_sprites_1.png",
+      //    "FromArea": { "X": 68, "Y": 190, "Width": 70, "Height": 51 },
+      //    "ToArea": { "X": 68, "Y": 190, "Width": 70, "Height": 51 }
+		// },
+		// // Mermaid fairy
+		// {
+		// 	"Action": "EditImage",
+		// 	"Target": "LooseSprites/temporary_sprites_1",
+		// 	"FromFile": "assets/LooseSprites/temporary_sprites_1.png",
+      //    "FromArea": { "X": 0, "Y": 126, "Width": 76, "Height": 20 },
+      //    "ToArea": { "X": 0, "Y": 126, "Width": 76, "Height": 20 }
+		// },
+		// // Mermaid poster
+		// {
+		// 	"Action": "EditImage",
+		// 	"Target": "LooseSprites/temporary_sprites_1",
+		// 	"FromFile": "assets/LooseSprites/temporary_sprites_1.png",
+      //    "FromArea": { "X": 172, "Y": 201, "Width": 28, "Height": 13 },
+      //    "ToArea": { "X": 172, "Y": 201, "Width": 28, "Height": 13 }
+		// },
+		// // Deco trader
+		// // Not actually used? See Maps/night_market_tilesheet_objects
+		// {
+		// 	"Action": "EditImage",
+		// 	"Target": "LooseSprites/temporary_sprites_1",
+		// 	"FromFile": "assets/LooseSprites/temporary_sprites_1.png",
+      //    "FromArea": { "X": 89, "Y": 164, "Width": 54, "Height": 23 },
+      //    "ToArea": { "X": 89, "Y": 164, "Width": 54, "Height": 23 }
+		// },
 
 		// Portrait artworks
 		// Equivalents exist in LooseObjects/Cursors.png
@@ -58,15 +84,6 @@
 			"FromFile": "assets/LooseSprites/temporary_sprites_1.png",
          "FromArea": { "X": 400, "Y": 394, "Width": 101, "Height": 22 },
          "ToArea": { "X": 400, "Y": 394, "Width": 101, "Height": 22 }
-		},
-		// Deco trader
-		// Not actually used? See Maps/night_market_tilesheet_objects
-		{
-			"Action": "EditImage",
-			"Target": "LooseSprites/temporary_sprites_1",
-			"FromFile": "assets/LooseSprites/temporary_sprites_1.png",
-         "FromArea": { "X": 89, "Y": 164, "Width": 54, "Height": 23 },
-         "ToArea": { "X": 89, "Y": 164, "Width": 54, "Height": 23 }
 		},
 
 		// Hands with vegetable

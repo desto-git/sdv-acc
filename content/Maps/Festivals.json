@@ -62,8 +62,8 @@
 			"Action": "EditImage",
 			"Target": "Maps/Festivals",
 			"FromFile": "assets/Maps/Festivals.png",
-         "FromArea": { "X": 336, "Y": 215, "Width": 96, "Height": 40 },
-         "ToArea": { "X": 336, "Y": 215, "Width": 96, "Height": 40 }
+         "FromArea": { "X": 336, "Y": 215, "Width": 96, "Height": 41 },
+         "ToArea": { "X": 336, "Y": 215, "Width": 96, "Height": 41 }
 		},
 
 		// Token exchange shop

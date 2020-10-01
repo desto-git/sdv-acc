@@ -76,8 +76,8 @@
 			"Action": "EditImage",
 			"Target": "LooseSprites/Cursors",
 			"FromFile": "assets/LooseSprites/Cursors.png",
-         "FromArea": { "X": 194, "Y": 1413, "Width": 15, "Height": 17 },
-         "ToArea": { "X": 194, "Y": 1413, "Width": 15, "Height": 17 }
+         "FromArea": { "X": 194, "Y": 1413, "Width": 16, "Height": 17 },
+         "ToArea": { "X": 194, "Y": 1413, "Width": 16, "Height": 17 }
 		},
 
 		// Pam bus driver + construction workers
@@ -85,8 +85,8 @@
 			"Action": "EditImage",
 			"Target": "LooseSprites/Cursors",
 			"FromFile": "assets/LooseSprites/Cursors.png",
-         "FromArea": { "X": 288, "Y": 1247, "Width": 136, "Height": 202 },
-         "ToArea": { "X": 288, "Y": 1247, "Width": 136, "Height": 202 }
+         "FromArea": { "X": 288, "Y": 1247, "Width": 136, "Height": 204 },
+         "ToArea": { "X": 288, "Y": 1247, "Width": 136, "Height": 204 }
 		},
 		{
 			"Action": "EditImage",

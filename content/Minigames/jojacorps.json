@@ -40,8 +40,8 @@
 			"Action": "EditImage",
 			"Target": "Minigames/jojacorps",
 			"FromFile": "assets/Minigames/jojacorps.png",
-         "FromArea": { "X": 109, "Y": 683, "Width": 1090, "Height": 58 },
-         "ToArea": { "X": 109, "Y": 683, "Width": 1090, "Height": 58 }
+         "FromArea": { "X": 109, "Y": 681, "Width": 1091, "Height": 60 },
+         "ToArea": { "X": 109, "Y": 681, "Width": 1091, "Height": 60 }
 		}
 	]
 }
