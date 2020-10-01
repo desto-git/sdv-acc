@@ -1,0 +1,69 @@
+{
+	"Changes": [
+		// Deco trader
+		{
+			"Action": "EditImage",
+			"Target": "Maps/night_market_tilesheet_objects",
+			"FromFile": "assets/Maps/night_market_tilesheet_objects.png",
+         "FromArea": { "X": 0, "Y": 272, "Width": 96, "Height": 32 },
+         "ToArea": { "X": 0, "Y": 272, "Width": 96, "Height": 32 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/night_market_tilesheet_objects",
+			"FromFile": "assets/Maps/night_market_tilesheet_objects.png",
+         "FromArea": { "X": 310, "Y": 106, "Width": 18, "Height": 22 },
+         "ToArea": { "X": 310, "Y": 106, "Width": 18, "Height": 22 }
+		},
+
+		// Desert trader
+		{
+			"Action": "EditImage",
+			"Target": "Maps/night_market_tilesheet_objects",
+			"FromFile": "assets/Maps/night_market_tilesheet_objects.png",
+         "FromArea": { "X": 192, "Y": 176, "Width": 48, "Height": 64 },
+         "ToArea": { "X": 192, "Y": 176, "Width": 48, "Height": 64 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/night_market_tilesheet_objects",
+			"FromFile": "assets/Maps/night_market_tilesheet_objects.png",
+         "FromArea": { "X": 176, "Y": 288, "Width": 80, "Height": 16 },
+         "ToArea": { "X": 176, "Y": 288, "Width": 80, "Height": 16 }
+		},
+
+		// Forest trader
+		{
+			"Action": "EditImage",
+			"Target": "Maps/night_market_tilesheet_objects",
+			"FromFile": "assets/Maps/night_market_tilesheet_objects.png",
+         "FromArea": { "X": 623, "Y": 62, "Width": 16, "Height": 16 },
+         "ToArea": { "X": 623, "Y": 62, "Width": 16, "Height": 16 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/night_market_tilesheet_objects",
+			"FromFile": "assets/Maps/night_market_tilesheet_objects.png",
+         "FromArea": { "X": 720, "Y": 0, "Width": 192, "Height": 16 },
+         "ToArea": { "X": 720, "Y": 0, "Width": 192, "Height": 16 }
+		},
+
+		// Mermaid banner
+		{
+			"Action": "EditImage",
+			"Target": "Maps/night_market_tilesheet_objects",
+			"FromFile": "assets/Maps/night_market_tilesheet_objects.png",
+         "FromArea": { "X": 952, "Y": 44, "Width": 54, "Height": 36 },
+         "ToArea": { "X": 952, "Y": 44, "Width": 54, "Height": 36 }
+		},
+
+		// Art seller
+		{
+			"Action": "EditImage",
+			"Target": "Maps/night_market_tilesheet_objects",
+			"FromFile": "assets/Maps/night_market_tilesheet_objects.png",
+         "FromArea": { "X": 1056, "Y": 240, "Width": 32, "Height": 32 },
+         "ToArea": { "X": 1056, "Y": 240, "Width": 32, "Height": 32 }
+		}
+	]
+}

@@ -44,6 +44,6 @@
 			"FromFile": "assets/LooseSprites/Movies.png",
          "FromArea": { "X": 0, "Y": 512, "Width": 512, "Height": 256 },
          "ToArea": { "X": 0, "Y": 512, "Width": 512, "Height": 256 }
-		},
+		}
 	]
 }

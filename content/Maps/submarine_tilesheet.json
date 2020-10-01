@@ -1,0 +1,18 @@
+{
+	"Changes": [
+		{
+			"Action": "EditImage",
+			"Target": "Maps/submarine_tilesheet",
+			"FromFile": "assets/Maps/submarine_tilesheet.png",
+         "FromArea": { "X": 16, "Y": 128, "Width": 16, "Height": 16 },
+         "ToArea": { "X": 16, "Y": 128, "Width": 16, "Height": 16 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/submarine_tilesheet",
+			"FromFile": "assets/Maps/submarine_tilesheet.png",
+         "FromArea": { "X": 192, "Y": 288, "Width": 64, "Height": 16 },
+         "ToArea": { "X": 192, "Y": 288, "Width": 64, "Height": 16 }
+		}
+	]
+}

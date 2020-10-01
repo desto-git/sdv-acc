@@ -1,0 +1,18 @@
+{
+	"Changes": [
+		{
+			"Action": "EditImage",
+			"Target": "Maps/samshowtiles",
+			"FromFile": "assets/Maps/samshowtiles.png",
+         "FromArea": { "X": 48, "Y": 0, "Width": 16, "Height": 96 },
+         "ToArea": { "X": 48, "Y": 0, "Width": 16, "Height": 96 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/samshowtiles",
+			"FromFile": "assets/Maps/samshowtiles.png",
+         "FromArea": { "X": 0, "Y": 192, "Width": 160, "Height": 32 },
+         "ToArea": { "X": 0, "Y": 192, "Width": 160, "Height": 32 }
+		}
+	]
+}

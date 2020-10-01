@@ -101,7 +101,6 @@
 			"FromFile": "assets/LooseSprites/temporary_sprites_1.png",
          "FromArea": { "X": 0, "Y": 614, "Width": 180, "Height": 26 },
          "ToArea": { "X": 0, "Y": 614, "Width": 180, "Height": 26 }
-		},
-
+		}
 	]
 }

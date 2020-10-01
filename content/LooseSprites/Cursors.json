@@ -41,7 +41,7 @@
          "ToArea": { "X": 80, "Y": 688, "Width": 16, "Height": 16 }
 		},
 
-		// JoJa personal
+		// Joja personal
 		{
 			"Action": "EditImage",
 			"Target": "LooseSprites/Cursors",

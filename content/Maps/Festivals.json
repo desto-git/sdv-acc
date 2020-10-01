@@ -1,0 +1,78 @@
+{
+	"Changes": [
+		// Coin shop
+		{
+			"Action": "EditImage",
+			"Target": "Maps/Festivals",
+			"FromFile": "assets/Maps/Festivals.png",
+         "FromArea": { "X": 368, "Y": 7, "Width": 32, "Height": 30 },
+         "ToArea": { "X": 368, "Y": 7, "Width": 32, "Height": 30 }
+		},
+
+		// Strength test
+		{
+			"Action": "EditImage",
+			"Target": "Maps/Festivals",
+			"FromFile": "assets/Maps/Festivals.png",
+         "FromArea": { "X": 496, "Y": 0, "Width": 16, "Height": 48 },
+         "ToArea": { "X": 496, "Y": 0, "Width": 16, "Height": 48 }
+		},
+
+		// Tourists
+		{
+			"Action": "EditImage",
+			"Target": "Maps/Festivals",
+			"FromFile": "assets/Maps/Festivals.png",
+         "FromArea": { "X": 272, "Y": 128, "Width": 16, "Height": 16 },
+         "ToArea": { "X": 272, "Y": 128, "Width": 16, "Height": 16 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/Festivals",
+			"FromFile": "assets/Maps/Festivals.png",
+         "FromArea": { "X": 288, "Y": 128, "Width": 80, "Height": 32 },
+         "ToArea": { "X": 288, "Y": 128, "Width": 80, "Height": 32 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/Festivals",
+			"FromFile": "assets/Maps/Festivals.png",
+         "FromArea": { "X": 448, "Y": 112, "Width": 16, "Height": 64 },
+         "ToArea": { "X": 448, "Y": 112, "Width": 16, "Height": 64 }
+		},
+
+		// Clown
+		{
+			"Action": "EditImage",
+			"Target": "Maps/Festivals",
+			"FromFile": "assets/Maps/Festivals.png",
+         "FromArea": { "X": 192, "Y": 208, "Width": 96, "Height": 48 },
+         "ToArea": { "X": 192, "Y": 208, "Width": 96, "Height": 48 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/Festivals",
+			"FromFile": "assets/Maps/Festivals.png",
+         "FromArea": { "X": 192, "Y": 256, "Width": 32, "Height": 16 },
+         "ToArea": { "X": 192, "Y": 256, "Width": 32, "Height": 16 }
+		},
+
+		// Boots
+		{
+			"Action": "EditImage",
+			"Target": "Maps/Festivals",
+			"FromFile": "assets/Maps/Festivals.png",
+         "FromArea": { "X": 336, "Y": 215, "Width": 96, "Height": 40 },
+         "ToArea": { "X": 336, "Y": 215, "Width": 96, "Height": 40 }
+		},
+
+		// Token exchange shop
+		{
+			"Action": "EditImage",
+			"Target": "Maps/Festivals",
+			"FromFile": "assets/Maps/Festivals.png",
+         "FromArea": { "X": 480, "Y": 215, "Width": 32, "Height": 40 },
+         "ToArea": { "X": 480, "Y": 215, "Width": 32, "Height": 40 }
+		}
+	]
+}

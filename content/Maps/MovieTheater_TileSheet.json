@@ -1,0 +1,46 @@
+{
+	"Changes": [
+		{
+			"Action": "EditImage",
+			"Target": "Maps/MovieTheater_TileSheet",
+			"FromFile": "assets/Maps/MovieTheater_TileSheet.png",
+         "FromArea": { "X": 0, "Y": 192, "Width": 32, "Height": 32 },
+         "ToArea": { "X": 0, "Y": 192, "Width": 32, "Height": 32 }
+		},
+		// { Morris is not around in this case
+		// 	"Action": "EditImage",
+		// 	"Target": "Maps/MovieTheater_TileSheet",
+		// 	"FromFile": "assets/Maps/MovieTheater_TileSheet.png",
+      //    "FromArea": { "X": 16, "Y": 224, "Width": 16, "Height": 32 },
+      //    "ToArea": { "X": 16, "Y": 224, "Width": 16, "Height": 32 }
+		// },
+		{
+			"Action": "EditImage",
+			"Target": "Maps/MovieTheater_TileSheet",
+			"FromFile": "assets/Maps/MovieTheater_TileSheet.png",
+         "FromArea": { "X": 112, "Y": 192, "Width": 112, "Height": 64 },
+         "ToArea": { "X": 112, "Y": 192, "Width": 112, "Height": 64 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/MovieTheater_TileSheet",
+			"FromFile": "assets/Maps/MovieTheater_TileSheet.png",
+         "FromArea": { "X": 224, "Y": 208, "Width": 32, "Height": 48 },
+         "ToArea": { "X": 224, "Y": 208, "Width": 32, "Height": 48 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/MovieTheater_TileSheet",
+			"FromFile": "assets/Maps/MovieTheater_TileSheet.png",
+         "FromArea": { "X": 192, "Y": 176, "Width": 64, "Height": 16 },
+         "ToArea": { "X": 192, "Y": 176, "Width": 64, "Height": 16 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/MovieTheater_TileSheet",
+			"FromFile": "assets/Maps/MovieTheater_TileSheet.png",
+         "FromArea": { "X": 240, "Y": 160, "Width": 16, "Height": 16 },
+         "ToArea": { "X": 240, "Y": 160, "Width": 16, "Height": 16 }
+		}
+	]
+}

@@ -1,0 +1,18 @@
+{
+	"Changes": [
+		{
+			"Action": "EditImage",
+			"Target": "Maps/stadium_tiles",
+			"FromFile": "assets/Maps/stadium_tiles.png",
+         "FromArea": { "X": 16, "Y": 176, "Width": 48, "Height": 32 },
+         "ToArea": { "X": 16, "Y": 176, "Width": 48, "Height": 32 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/stadium_tiles",
+			"FromFile": "assets/Maps/stadium_tiles.png",
+         "FromArea": { "X": 0, "Y": 208, "Width": 64, "Height": 96 },
+         "ToArea": { "X": 0, "Y": 208, "Width": 64, "Height": 96 }
+		}
+	]
+}

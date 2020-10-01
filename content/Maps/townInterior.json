@@ -1,0 +1,60 @@
+{
+	"Changes": [
+		// Sebastian? poster
+		{
+			"Action": "EditImage",
+			"Target": "Maps/townInterior",
+			"FromFile": "assets/Maps/townInterior.png",
+         "FromArea": { "X": 352, "Y": 176, "Width": 16, "Height": 16 },
+         "ToArea": { "X": 352, "Y": 176, "Width": 16, "Height": 16 }
+		},
+
+		// Gil
+		{
+			"Action": "EditImage",
+			"Target": "Maps/townInterior",
+			"FromFile": "assets/Maps/townInterior.png",
+         "FromArea": { "X": 176, "Y": 624, "Width": 32, "Height": 64 },
+         "ToArea": { "X": 176, "Y": 624, "Width": 32, "Height": 64 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/townInterior",
+			"FromFile": "assets/Maps/townInterior.png",
+         "FromArea": { "X": 208, "Y": 656, "Width": 32, "Height": 32 },
+         "ToArea": { "X": 208, "Y": 656, "Width": 32, "Height": 32 }
+		},
+
+		// Joja mart cashier
+		{
+			"Action": "EditImage",
+			"Target": "Maps/townInterior",
+			"FromFile": "assets/Maps/townInterior.png",
+         "FromArea": { "X": 352, "Y": 944, "Width": 32, "Height": 32 },
+         "ToArea": { "X": 352, "Y": 944, "Width": 32, "Height": 32 }
+		},
+
+		// Joja mart Morris
+		{
+			"Action": "EditImage",
+			"Target": "Maps/townInterior",
+			"FromFile": "assets/Maps/townInterior.png",
+         "FromArea": { "X": 368, "Y": 1008, "Width": 16, "Height": 32 },
+         "ToArea": { "X": 368, "Y": 1008, "Width": 16, "Height": 32 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/townInterior",
+			"FromFile": "assets/Maps/townInterior.png",
+         "FromArea": { "X": 384, "Y": 1008, "Width": 16, "Height": 16 },
+         "ToArea": { "X": 384, "Y": 1008, "Width": 16, "Height": 16 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/townInterior",
+			"FromFile": "assets/Maps/townInterior.png",
+         "FromArea": { "X": 400, "Y": 1008, "Width": 16, "Height": 32 },
+         "ToArea": { "X": 400, "Y": 1008, "Width": 16, "Height": 32 }
+		}
+	]
+}

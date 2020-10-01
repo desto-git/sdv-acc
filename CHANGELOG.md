@@ -1,5 +1,6 @@
 ## 5.22.0
 
+- Feature: Remove redundant multi-language versions (they inherit the changes)
 - Chore: Split content.json into multiple files
 
 ## pre manifest.json

@@ -1,0 +1,25 @@
+{
+	"Changes": [
+		{
+			"Action": "EditImage",
+			"Target": "Maps/DesertTiles",
+			"FromFile": "assets/Maps/DesertTiles.png",
+         "FromArea": { "X": 96, "Y": 193, "Width": 33, "Height": 47 },
+         "ToArea": { "X": 96, "Y": 193, "Width": 33, "Height": 47 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/DesertTiles",
+			"FromFile": "assets/Maps/DesertTiles.png",
+         "FromArea": { "X": 160, "Y": 256, "Width": 16, "Height": 16 },
+         "ToArea": { "X": 160, "Y": 256, "Width": 16, "Height": 16 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/DesertTiles",
+			"FromFile": "assets/Maps/DesertTiles.png",
+         "FromArea": { "X": 224, "Y": 288, "Width": 32, "Height": 32 },
+         "ToArea": { "X": 224, "Y": 256, "Width": 32, "Height": 32 }
+		}
+	]
+}
