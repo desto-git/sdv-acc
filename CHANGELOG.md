@@ -1,3 +1,7 @@
+## 5.22.1
+
+- Fix flickering fireplace and chessboard pattern water tiles
+
 ## 5.22.0
 
 - Improve compatibility with other mods by using "EditImage" instead of "Load"
