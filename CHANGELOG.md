@@ -1,9 +1,13 @@
 ## 5.22.0
 
-- Feature: Remove redundant multi-language versions (they inherit the changes)
-- Feature: Remove unaltered parts of images
-- Feature: Get rid of the "libpng warning: iCCP: known incorrect sRGB profile"
-- Chore: Split content.json into multiple files
+- Improve compatibility with other mods by using "EditImage" instead of "Load"
+- Split content.json into multiple files
+- Get rid of the "libpng warning: iCCP: known incorrect sRGB profile"
+- Add UpdateKey to manifest.json
+- Prefix mod folder with "[CP]" to follow the community-standard
+- Drastically reduce file size (18.8MB -> 2.3MB) via:
+	- Remove redundant multi-language versions (they inherit the changes)
+	- Remove unaltered parts of images
 
 ## pre manifest.json
 

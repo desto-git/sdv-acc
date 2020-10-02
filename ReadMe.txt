@@ -1,12 +1,13 @@
 This file is intended to be installed with Content Patcher. For those simply looking to replace files, please use the replacer version of this mod.
 
 
+
 Authors:
 - Gaveliere a.k.a. Gavelly (Twitter: @Gavelly)
-
--Blanchard a.k.a. sion9000 (Twitter: @NekoBlanchard)
+- Blanchard a.k.a. sion9000 (Twitter: @NekoBlanchard)
 
 *Our Twitters may contain NSFW furry trash.
+
 
 
 Support:
@@ -15,20 +16,21 @@ This mod has been a community effort, but without Gaveliere it would not exist. 
 If you would like to support the artist who created this work, a donation would be greatly appreciated. You can help fund this mod as well as his other projects at: https://ko-fi.com/gaveliere
 
 
+
 Credits:
 A titanic, overwhelming thanks to Gaveliere for creating this mod, for creating the ACC genderswaps, and for rigorous testing.
 Blanchard(sion9000) for maintaining the mod pages, testing, and co-development.
 Thanks to Krystedez and ColaWolf for additional characters.
-Thanks to Bonabopn and Roskii for keeping the thread alive and helping 
+Thanks to Bonabopn and Roskii for keeping the thread alive and helping
 with bug fixing, troubleshooting and help with various files.
 Thanks to HYODO and ninjakaami for providing additional sprite fixes.
 Big thanks to ninjakaami for making a patch to make this mod compatible with Siv's Marriage Mod.
-Many thanks to Mocha Mokat for helping to tweak 
-Cursors.xnb with several transparency fixes and adding new anthro 
+Many thanks to Mocha Mokat for helping to tweak
+Cursors.xnb with several transparency fixes and adding new anthro
 sprites for the Prairie King mini-game.
 Thanks to Arrkhal for the flavor update to the clinic and the updated townInterior.xnb file.
-Thanks to Rydel for noticing and helping fix a mistake with Emily's hands during her walk cycle, as well as portrait adjustments for Penny, 
-Haley and Emily. Much thanks to Rydel for also making a compatibility 
+Thanks to Rydel for noticing and helping fix a mistake with Emily's hands during her walk cycle, as well as portrait adjustments for Penny,
+Haley and Emily. Much thanks to Rydel for also making a compatibility
 patch for ACC & Longevity!
 Thanks to luna_panshiel for their help with additional Longevity patch fixes~
 Many thanks to Fyn for Content Pack and various support.
