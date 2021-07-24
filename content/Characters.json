@@ -7,8 +7,28 @@
 		},
 		{
 			"Action": "Load",
+			"Target": "Characters/Abigail_Beach",
+			"FromFile": "assets/Characters/Abigail_Beach.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "Characters/Alex",
 			"FromFile": "assets/Characters/Alex.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Alex_Beach",
+			"FromFile": "assets/Characters/Alex_Beach.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Bear",
+			"FromFile": "assets/Characters/Bear.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Birdie",
+			"FromFile": "assets/Characters/Birdie.png"
 		},
 		{
 			"Action": "Load",
@@ -22,6 +42,11 @@
 		},
 		{
 			"Action": "Load",
+			"Target": "Characters/Caroline_Beach",
+			"FromFile": "assets/Characters/Caroline_Beach.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "Characters/Clint",
 			"FromFile": "assets/Characters/Clint.png"
 		},
@@ -32,8 +57,18 @@
 		},
 		{
 			"Action": "Load",
+			"Target": "Characters/Dick",
+			"FromFile": "assets/Characters/Dick.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "Characters/Demetrius",
 			"FromFile": "assets/Characters/Demetrius.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Demetrius_Beach",
+			"FromFile": "assets/Characters/Demetrius_Beach.png"
 		},
 		{
 			"Action": "Load",
@@ -47,8 +82,18 @@
 		},
 		{
 			"Action": "Load",
+			"Target": "Characters/Elliott_Beach",
+			"FromFile": "assets/Characters/Elliott_Beach.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "Characters/Emily",
 			"FromFile": "assets/Characters/Emily.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Emily_Beach",
+			"FromFile": "assets/Characters/Emily_Beach.png"
 		},
 		{
 			"Action": "Load",
@@ -82,8 +127,18 @@
 		},
 		{
 			"Action": "Load",
+			"Target": "Characters/Haley_Beach",
+			"FromFile": "assets/Characters/Haley_Beach.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "Characters/Harvey",
 			"FromFile": "assets/Characters/Harvey.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Harvey_Beach",
+			"FromFile": "assets/Characters/Harvey_Beach.png"
 		},
 		{
 			"Action": "Load",
@@ -102,6 +157,11 @@
 		},
 		{
 			"Action": "Load",
+			"Target": "Characters/Jodi_Beach",
+			"FromFile": "assets/Characters/Jodi_Beach.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "Characters/Kent",
 			"FromFile": "assets/Characters/Kent.png"
 		},
@@ -112,6 +172,11 @@
 		},
 		{
 			"Action": "Load",
+			"Target": "Characters/KrobusRaven",
+			"FromFile": "assets/Characters/KrobusRaven.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "Characters/Krobus_Trenchcoat",
 			"FromFile": "assets/Characters/Krobus_Trenchcoat.png"
 		},
@@ -119,6 +184,11 @@
 			"Action": "Load",
 			"Target": "Characters/Leah",
 			"FromFile": "assets/Characters/Leah.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Leah_Beach",
+			"FromFile": "assets/Characters/Leah_Beach.png"
 		},
 		{
 			"Action": "Load",
@@ -134,6 +204,11 @@
 			"Action": "Load",
 			"Target": "Characters/Lewis",
 			"FromFile": "assets/Characters/Lewis.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Lewis_Beach",
+			"FromFile": "assets/Characters/Lewis_Beach.png"
 		},
 		{
 			"Action": "Load",
@@ -162,6 +237,11 @@
 		},
 		{
 			"Action": "Load",
+			"Target": "Characters/Marnie_Beach",
+			"FromFile": "assets/Characters/Marnie_Beach.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "Characters/Maru",
 			"FromFile": "assets/Characters/Maru.png"
 		},
@@ -187,8 +267,23 @@
 		},
 		{
 			"Action": "Load",
+			"Target": "Characters/Pam_Beach",
+			"FromFile": "assets/Characters/Pam_Beach.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/ParrotBoy",
+			"FromFile": "assets/Characters/ParrotBoy.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "Characters/Penny",
 			"FromFile": "assets/Characters/Penny.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Penny_Beach",
+			"FromFile": "assets/Characters/Penny_Beach.png"
 		},
 		{
 			"Action": "Load",
@@ -197,13 +292,33 @@
 		},
 		{
 			"Action": "Load",
+			"Target": "Characters/Pierre_Beach",
+			"FromFile": "assets/Characters/Pierre_Beach.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "Characters/Robin",
 			"FromFile": "assets/Characters/Robin.png"
 		},
 		{
 			"Action": "Load",
+			"Target": "Characters/Robin_Beach",
+			"FromFile": "assets/Characters/Robin_Beach.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/SafariGuy",
+			"FromFile": "assets/Characters/SafariGuy.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "Characters/Sam",
 			"FromFile": "assets/Characters/Sam.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Sam_Beach",
+			"FromFile": "assets/Characters/Sam_Beach.png"
 		},
 		{
 			"Action": "Load",
@@ -222,8 +337,18 @@
 		},
 		{
 			"Action": "Load",
+			"Target": "Characters/Sebastian_Beach",
+			"FromFile": "assets/Characters/Sebastian_Beach.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "Characters/Shane",
 			"FromFile": "assets/Characters/Shane.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Shane_Beach",
+			"FromFile": "assets/Characters/Shane_Beach.png"
 		},
 		{
 			"Action": "Load",

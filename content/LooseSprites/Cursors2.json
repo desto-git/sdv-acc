@@ -1,0 +1,21 @@
+{
+	"Changes": [
+		// TV channel beach/parrot
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors2",
+			"FromFile": "assets/LooseSprites/Cursors2.png",
+         "FromArea": { "X": 148, "Y": 62, "Width": 42, "Height": 28 },
+         "ToArea": { "X": 148, "Y": 62, "Width": 42, "Height": 28 }
+		},
+
+		// Witch on a broom
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/Cursors2",
+			"FromFile": "assets/LooseSprites/Cursors2.png",
+         "FromArea": { "X": 208, "Y": 256, "Width": 48, "Height": 64 },
+         "ToArea": { "X": 208, "Y": 256, "Width": 48, "Height": 64 }
+		}
+	]
+}

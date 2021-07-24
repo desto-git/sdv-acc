@@ -73,6 +73,22 @@
 			"FromFile": "assets/Maps/Festivals.png",
          "FromArea": { "X": 480, "Y": 215, "Width": 32, "Height": 40 },
          "ToArea": { "X": 480, "Y": 215, "Width": 32, "Height": 40 }
+		},
+
+		// Igloo
+		{
+			"Action": "EditImage",
+			"Target": "Maps/Festivals",
+			"FromFile": "assets/Maps/Festivals.png",
+         "FromArea": { "X": 224, "Y": 464, "Width": 16, "Height": 32 },
+         "ToArea": { "X": 224, "Y": 464, "Width": 16, "Height": 32 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/Festivals",
+			"FromFile": "assets/Maps/Festivals.png",
+         "FromArea": { "X": 272, "Y": 464, "Width": 32, "Height": 16 },
+         "ToArea": { "X": 272, "Y": 464, "Width": 32, "Height": 16 }
 		}
 	]
 }

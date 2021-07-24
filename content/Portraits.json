@@ -7,8 +7,28 @@
 		},
 		{
 			"Action": "Load",
+			"Target": "Portraits/Abigail_Beach",
+			"FromFile": "assets/Portraits/Abigail_Beach.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "Portraits/Alex",
 			"FromFile": "assets/Portraits/Alex.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/Alex_Beach",
+			"FromFile": "assets/Portraits/Alex_Beach.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/Bear",
+			"FromFile": "assets/Portraits/Bear.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/Birdie",
+			"FromFile": "assets/Portraits/Birdie.png"
 		},
 		{
 			"Action": "Load",
@@ -22,8 +42,18 @@
 		},
 		{
 			"Action": "Load",
+			"Target": "Portraits/Caroline_Beach",
+			"FromFile": "assets/Portraits/Caroline_Beach.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "Portraits/Clint",
 			"FromFile": "assets/Portraits/Clint.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/Clint_Beach",
+			"FromFile": "assets/Portraits/Clint_Beach.png"
 		},
 		{
 			"Action": "Load",
@@ -42,8 +72,18 @@
 		},
 		{
 			"Action": "Load",
+			"Target": "Portraits/Elliott_Beach",
+			"FromFile": "assets/Portraits/Elliott_Beach.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "Portraits/Emily",
 			"FromFile": "assets/Portraits/Emily.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/Emily_Beach",
+			"FromFile": "assets/Portraits/Emily_Beach.png"
 		},
 		{
 			"Action": "Load",
@@ -87,8 +127,18 @@
 		},
 		{
 			"Action": "Load",
+			"Target": "Portraits/Haley_Beach",
+			"FromFile": "assets/Portraits/Haley_Beach.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "Portraits/Harvey",
 			"FromFile": "assets/Portraits/Harvey.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/Harvey_Beach",
+			"FromFile": "assets/Portraits/Harvey_Beach.png"
 		},
 		{
 			"Action": "Load",
@@ -104,6 +154,11 @@
 			"Action": "Load",
 			"Target": "Portraits/Jodi",
 			"FromFile": "assets/Portraits/Jodi.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/Jodi_Beach",
+			"FromFile": "assets/Portraits/Jodi_Beach.png"
 		},
 		{
 			"Action": "Load",
@@ -127,6 +182,11 @@
 		},
 		{
 			"Action": "Load",
+			"Target": "Portraits/Leah_Beach",
+			"FromFile": "assets/Portraits/Leah_Beach.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "Portraits/Lewis",
 			"FromFile": "assets/Portraits/Lewis.png"
 		},
@@ -147,8 +207,18 @@
 		},
 		{
 			"Action": "Load",
+			"Target": "Portraits/Marnie_Beach",
+			"FromFile": "assets/Portraits/Marnie_Beach.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "Portraits/Maru",
 			"FromFile": "assets/Portraits/Maru.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/Maru_Beach",
+			"FromFile": "assets/Portraits/Maru_Beach.png"
 		},
 		{
 			"Action": "Load",
@@ -172,8 +242,23 @@
 		},
 		{
 			"Action": "Load",
+			"Target": "Portraits/Pam_Beach",
+			"FromFile": "assets/Portraits/Pam_Beach.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/ParrotBoy",
+			"FromFile": "assets/Portraits/ParrotBoy.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "Portraits/Penny",
 			"FromFile": "assets/Portraits/Penny.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/Penny_Beach",
+			"FromFile": "assets/Portraits/Penny_Beach.png"
 		},
 		{
 			"Action": "Load",
@@ -182,13 +267,33 @@
 		},
 		{
 			"Action": "Load",
+			"Target": "Portraits/Pierre_Beach",
+			"FromFile": "assets/Portraits/Pierre_Beach.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "Portraits/Robin",
 			"FromFile": "assets/Portraits/Robin.png"
 		},
 		{
 			"Action": "Load",
+			"Target": "Portraits/Robin_Beach",
+			"FromFile": "assets/Portraits/Robin_Beach.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/SafariGuy",
+			"FromFile": "assets/Portraits/SafariGuy.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "Portraits/Sam",
 			"FromFile": "assets/Portraits/Sam.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/Sam_Beach",
+			"FromFile": "assets/Portraits/Sam_Beach.png"
 		},
 		{
 			"Action": "Load",
@@ -202,8 +307,18 @@
 		},
 		{
 			"Action": "Load",
+			"Target": "Portraits/Sebastian_Beach",
+			"FromFile": "assets/Portraits/Sebastian_Beach.png"
+		},
+		{
+			"Action": "Load",
 			"Target": "Portraits/Shane",
 			"FromFile": "assets/Portraits/Shane.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Portraits/Shane_Beach",
+			"FromFile": "assets/Portraits/Shane_Beach.png"
 		},
 		{
 			"Action": "Load",

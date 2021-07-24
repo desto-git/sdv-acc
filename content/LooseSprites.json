@@ -2,7 +2,7 @@
 	"Changes": [
       {
          "Action": "Include",
-         "FromFile": "content/LooseSprites/temporary_sprites_1.json"
+         "FromFile": "content/LooseSprites/BundleSprites.json"
 		},
 		{
 			"Action": "Load",
@@ -22,6 +22,10 @@
       {
          "Action": "Include",
          "FromFile": "content/LooseSprites/Cursors.json"
+		},
+      {
+         "Action": "Include",
+         "FromFile": "content/LooseSprites/Cursors2.json"
 		},
 		{
 			"Action": "EditImage",
@@ -44,6 +48,10 @@
 			"FromFile": "assets/LooseSprites/Movies.png",
          "FromArea": { "X": 0, "Y": 512, "Width": 512, "Height": 256 },
          "ToArea": { "X": 0, "Y": 512, "Width": 512, "Height": 256 }
+		},
+      {
+         "Action": "Include",
+         "FromFile": "content/LooseSprites/temporary_sprites_1.json"
 		}
 	]
 }

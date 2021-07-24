@@ -1,0 +1,69 @@
+{
+	"Changes": [
+		// Drunken sailor
+		{
+			"Action": "EditImage",
+			"Target": "Maps/pirates_tilesheet",
+			"FromFile": "assets/Maps/pirates_tilesheet.png",
+         "FromArea": { "X": 240, "Y": 0, "Width": 64, "Height": 64 },
+         "ToArea": { "X": 240, "Y": 0, "Width": 64, "Height": 64 }
+		},
+
+		// Standing pirates
+		{
+			"Action": "EditImage",
+			"Target": "Maps/pirates_tilesheet",
+			"FromFile": "assets/Maps/pirates_tilesheet.png",
+         "FromArea": { "X": 96, "Y": 48, "Width": 32, "Height": 32 },
+         "ToArea": { "X": 96, "Y": 48, "Width": 32, "Height": 32 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/pirates_tilesheet",
+			"FromFile": "assets/Maps/pirates_tilesheet.png",
+         "FromArea": { "X": 160, "Y": 48, "Width": 16, "Height": 32 },
+         "ToArea": { "X": 160, "Y": 48, "Width": 16, "Height": 32 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/pirates_tilesheet",
+			"FromFile": "assets/Maps/pirates_tilesheet.png",
+         "FromArea": { "X": 32, "Y": 96, "Width": 16, "Height": 32 },
+         "ToArea": { "X": 32, "Y": 96, "Width": 16, "Height": 32 }
+		},
+		{
+			"Action": "EditImage",
+			"Target": "Maps/pirates_tilesheet",
+			"FromFile": "assets/Maps/pirates_tilesheet.png",
+         "FromArea": { "X": 16, "Y": 112, "Width": 16, "Height": 32 },
+         "ToArea": { "X": 16, "Y": 112, "Width": 16, "Height": 32 }
+		},
+
+		// Punching pirates
+		{
+			"Action": "EditImage",
+			"Target": "Maps/pirates_tilesheet",
+			"FromFile": "assets/Maps/pirates_tilesheet.png",
+         "FromArea": { "X": 128, "Y": 128, "Width": 64, "Height": 32 },
+         "ToArea": { "X": 128, "Y": 128, "Width": 64, "Height": 32 }
+		},
+
+		// Sipping guy + bug guy at bar
+		{
+			"Action": "EditImage",
+			"Target": "Maps/pirates_tilesheet",
+			"FromFile": "assets/Maps/pirates_tilesheet.png",
+         "FromArea": { "X": 144, "Y": 96, "Width": 96, "Height": 32 },
+         "ToArea": { "X": 144, "Y": 96, "Width": 96, "Height": 32 }
+		},
+
+		// bar counter
+		{
+			"Action": "EditImage",
+			"Target": "Maps/pirates_tilesheet",
+			"FromFile": "assets/Maps/pirates_tilesheet.png",
+         "FromArea": { "X": 192, "Y": 80, "Width": 16, "Height": 80 },
+         "ToArea": { "X": 192, "Y": 80, "Width": 16, "Height": 80 }
+		},
+	]
+}

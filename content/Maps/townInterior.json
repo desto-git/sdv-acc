@@ -9,6 +9,15 @@
          "ToArea": { "X": 352, "Y": 176, "Width": 16, "Height": 16 }
 		},
 
+		// Flu poster
+		{
+			"Action": "EditImage",
+			"Target": "Maps/townInterior",
+			"FromFile": "assets/Maps/townInterior.png",
+         "FromArea": { "X": 144, "Y": 432, "Width": 16, "Height": 16 },
+         "ToArea": { "X": 144, "Y": 432, "Width": 16, "Height": 16 }
+		},
+
 		// Gil
 		{
 			"Action": "EditImage",

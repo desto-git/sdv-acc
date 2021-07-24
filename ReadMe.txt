@@ -1,13 +1,34 @@
-This file is intended to be installed with Content Patcher. For those simply looking to replace files, please use the replacer version of this mod.
+Installation Instructions:
 
+For the replacer version:
+Simply copy the Contents folder to your Stardew Valley directory and overwrite all files when prompted. This will replace the sprites in your game with the ACC versions.
+
+
+For the Content Patcher version:
+If you already have Content Patcher installed, simply copy the "Anthro Characters Continued x.x" folder (which contains "manifest.json") into the "Mods" folder in the game installation folder. You're done!
+
+If you have an unmodded vanilla game with no SMAPI or Content Patcher yet:
+[Linux/Mac Only] Install Mono. The "mono-complete" package is recommended.
+
+1. Install SMAPI: https://smapi.io
+	1. Use the installation script, OR
+	2. Follow the manual SMAPI installation instructions and copy the file/folder structure into the game installation folder, overwriting the existing files, and renaming the included StardewModdingAPI to StardewValley as needed.)
+
+2. Install Content Patcher: https://www.moddrop.com/stardew-valley/mods/470174-content-patcher
+	1.Copy the "ContentPatcher" folder (which contains "manifest.json") into the newly-created (by SMAPI) "Mods" folder in the game installation folder.
+
+3. Install Anthro Characters Continued Content Patcher Version.
+	1.Copy the "Anthro Characters Continued x.x" folder (which contains "manifest.json") into the newly-created (by SMAPI) "Mods" folder in the game installation folder.
 
 
 Authors:
 - Gaveliere a.k.a. Gavelly (Twitter: @Gavelly)
+
 - Blanchard a.k.a. sion9000 (Twitter: @NekoBlanchard)
 
-*Our Twitters may contain NSFW furry trash.
+- Krystedez (Twitter: @ChiefKryz)
 
+*Our Twitters may contain NSFW furry trash.
 
 
 Support:
@@ -16,10 +37,10 @@ This mod has been a community effort, but without Gaveliere it would not exist. 
 If you would like to support the artist who created this work, a donation would be greatly appreciated. You can help fund this mod as well as his other projects at: https://ko-fi.com/gaveliere
 
 
-
 Credits:
 A titanic, overwhelming thanks to Gaveliere for creating this mod, for creating the ACC genderswaps, and for rigorous testing.
 Blanchard(sion9000) for maintaining the mod pages, testing, and co-development.
+Thanks to Krystedez for Content Patcher management and co-development.
 Thanks to Krystedez and ColaWolf for additional characters.
 Thanks to Bonabopn and Roskii for keeping the thread alive and helping
 with bug fixing, troubleshooting and help with various files.
@@ -38,11 +59,10 @@ Big thanks to lxlhunter for updating ACC for 1.3!
 Thanks to Sabs like "labs" for his work on the Content Patcher version.
 Thanks to ColaWolf for additions and fixes to 1.3.
 Thanks to MasterXYZ for more updates to Cursors.
-Big thanks to Aqre for his additions to 1.3 as well as updates of old files.
+Big thanks to BlueSkyez for his additions to 1.3 as well as updates of old files.
 Thanks to Yogurl for the alternate Alex portraits.
 Thanks goes to Lobst for help back in 1.1 in updating Shane for 1.1 and assisting with Clint's sprites, as well as Clothing Therapy sprites.
 Big thanks to Krystedez for updating the Content Patcher version for patch 1.4 and maintaining it!
-
-
+Thanks to Swiftpaw22 for sprite recommendations and ReadMe improvements.
 
 Thank you!

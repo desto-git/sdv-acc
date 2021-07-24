@@ -26,6 +26,10 @@
 		},
       {
          "Action": "Include",
+         "FromFile": "content/Maps/pirates_tilesheet.json"
+      },
+      {
+         "Action": "Include",
          "FromFile": "content/Maps/samshowtiles.json"
 		},
       {

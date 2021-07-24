@@ -16,7 +16,6 @@
          "ToArea": { "X": 144, "Y": 0, "Width": 112, "Height": 118 }
 		},
 
-
 		// Applying many individual patches increases initial load time
 		// big-ass mermaid
 		// {
@@ -75,6 +74,15 @@
       //    "FromArea": { "X": 89, "Y": 164, "Width": 54, "Height": 23 },
       //    "ToArea": { "X": 89, "Y": 164, "Width": 54, "Height": 23 }
 		// },
+
+		// Waving mermaid
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/temporary_sprites_1",
+			"FromFile": "assets/LooseSprites/temporary_sprites_1.png",
+         "FromArea": { "X": 304, "Y": 592, "Width": 192, "Height": 48 },
+         "ToArea": { "X": 304, "Y": 592, "Width": 192, "Height": 48 }
+		},
 
 		// Portrait artworks
 		// Equivalents exist in LooseObjects/Cursors.png

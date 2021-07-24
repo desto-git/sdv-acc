@@ -1,0 +1,21 @@
+{
+	"Changes": [
+		// Vincent and Jas
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/BundleSprites",
+			"FromFile": "assets/LooseSprites/BundleSprites.png",
+         "FromArea": { "X": 0, "Y": 0, "Width": 32, "Height": 32 },
+         "ToArea": { "X": 0, "Y": 0, "Width": 32, "Height": 32 }
+		},
+
+		// Linus + Jodi
+		{
+			"Action": "EditImage",
+			"Target": "LooseSprites/BundleSprites",
+			"FromFile": "assets/LooseSprites/BundleSprites.png",
+         "FromArea": { "X": 160, "Y": 0, "Width": 64, "Height": 32 },
+         "ToArea": { "X": 160, "Y": 0, "Width": 64, "Height": 32 }
+		}
+	]
+}
