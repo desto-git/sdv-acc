@@ -9,7 +9,7 @@ Updated to 6.0.4, which contains the following changes compared to 5.22.
 
 **Characters**
 - Add beach sprites of all applicable characters
-- Caroline: Fix sprite colors
+- Caroline: Fix hand colors of some sprites
 - Clint: Add beard to match his portrait
 - Jodi: Minor color adjustment to the outline of the hair
 - Krobus: Remove some misplaced white pixels
@@ -19,7 +19,7 @@ Updated to 6.0.4, which contains the following changes compared to 5.22.
 - Marnie: Make her hair more vibrant
 - Pam: Add missing sleeves, and slightly adjust fishing bobble
 - Penny: "Fix nose"?
-	- Edit by me: Revert the change,b ut keep the shadow on the throat
+	- Edit by me: Revert the change, but keep the shadow on the throat
 - Pierre: New hairstyle
 - Robin: Fix eye color, minor hair color change, and some corrupt sprites?
 	- Edit by me: Revert the hair color and corrupt sprites
@@ -29,7 +29,8 @@ Updated to 6.0.4, which contains the following changes compared to 5.22.
 	- Edit by me: Revert the weird hat
 - Add new event sprites for Abigail, Caroline, George, Lewis, Linus, Marnie, Pam, Robin, Willy
 	- Edit by me: Change Robin's hair color to match the previous version
-- New characters: Bear, Birdie, (Dick?), KrobusRaven (?), ParrotBoy, SafariGuy, 
+- New characters: Bear, Birdie, Leo, Professor Snail
+- Add Dick (Willy) and "KrobusRaven" (is that a minigame?)
 - Add `farmer_base.xnb`
 	- Edit by me: Revert, it is not used
 
@@ -60,6 +61,7 @@ Updated to 6.0.4, which contains the following changes compared to 5.22.
 
 **Miscellaneous**
 - Move event changes from inline `content.json` into a full `.xnb` patch
+- By me: Reduced file size even further (~1.8MB)
 
 ## 5.22.1
 
